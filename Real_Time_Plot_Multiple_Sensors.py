@@ -6,8 +6,6 @@ import matplotlib.animation as animation
 from matplotlib.lines import Line2D
 import numpy as np
 
-
-
 def getSerialData(self,Samples,numData,serialConnection,lines):
 
     for i in range(numData):
